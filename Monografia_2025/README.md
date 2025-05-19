@@ -13,6 +13,7 @@ Predecir el tiempo de espera en la atención de un asegurado durante una inciden
 - Puedes ejecutar el Notebook directamente desde Colab en el siguiente enlace:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1R38a5nc0za78z5o_-a5DgIberJYP1gU4)
  
-- En caso de no tener acceso a Colab por algura razón, se puede usar el Notebook de este repositorio ME02_G7_Modelo.ipynb, se deben seguir los sigueintes paso:
-- **Paso 1**: Se descarga el Notebook ME02_G7_Modelo.ipynb del repositorio y se carga en un ambiente que se pueda ejecutar preferiblemente Colab.
-- **Paso 2**: Una vez carga el Notebook en un ambiente que se puede ejecutat seguir los paso que alli estan debidamente documentados.
+- En caso de no tener acceso a Colab por alguna razón, se puede usar el Notebook de este repositorio ME02_G7_Modelo.ipynb, se deben seguir los siguientes paso:
+	- **Paso 1**: Se descarga el Notebook ME02_G7_Modelo.ipynb del repositorio y se carga en un ambiente que se pueda ejecutar preferiblemente Colab.
+	- **Paso 2**: Una vez carga el Notebook en un ambiente que se puede ejecutat seguir los paso que allí están debidamente documentados, correr cada una de las secciones de código en el orden que están en el Notebook.
+- El DataSet está referenciado al enlace público del repositorio, no es necesario hacer ningún cambio para que se importe en el Noteboob
