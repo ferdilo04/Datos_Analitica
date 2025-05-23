@@ -13,6 +13,7 @@ Predecir el tiempo de espera en la atención de un asegurado durante una inciden
 - **DataSet_PREDITIMESACC.xlsx**: Dataset inicial con información de los datos a trabajar.
 - **ME02_G7_Modelo.ipynb**: Notebook debidamente documentado con el código para la en análisis y tratamiento de los datos.
 - **DataSetFinalTratado.xlsx**: Dataset final con todo el tratamiento de datos aplicado.
+- **Documentos/G07-ME03_AvanceMonografia_DiegoLondono_YennyVergara_UdeA.docx**: Monografia-> Modelo de predicción de tiempo de espera de un asegurado en accidente de tránsito.
 
 
 ## Pasos para ejecutar el Notebook
