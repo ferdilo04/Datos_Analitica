@@ -10,6 +10,7 @@ Predecir el tiempo de espera en la atención de un asegurado durante una inciden
 
 ## Contenido
 
+- **Documentos/Cronograma.xlsx**: Cronograma de ejecución monografia 2025_02.
 - **ME02_G7_Modelo.ipynb**: Notebook debidamente documentado con el código para la en análisis y tratamiento de los datos.
 - **Data Cruda.xlsx**: Data cruda inicial sin ningún tipo de tratamiento.
 - **DataSet_PREDITIMESACC.xlsx**: Dataset inicial ajustada con información de los datos a trabajar.
