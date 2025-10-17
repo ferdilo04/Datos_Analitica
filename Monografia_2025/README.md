@@ -15,6 +15,7 @@ Predecir el tiempo de espera en la atención de un asegurado durante una inciden
 - **Data Cruda.xlsx**: Data cruda inicial sin ningún tipo de tratamiento.
 - **DataSet_PREDITIMESACC.xlsx**: Dataset inicial ajustada con información de los datos a trabajar.
 - **DataSet_PREDITIMESACC_V2.xlsx**: Dataset actualizado con información del clima, descripción del caso y dirección.
+- **DataSet_PREDITIMESACC_V3.xlsx**: Dataset actualizado con información ubicación de origen y dirección generada desde el campo descripción.
 - **DataSetFinalTratado.xlsx**: Dataset final con todo el tratamiento de datos aplicado.
 - **Documentos/EstadodelArte/Resumen estado del arte.xlsx**: Información del estado del arte en modelos similares.
 - **Documentos/G07-ME03_AvanceMonografia_DiegoLondono_YennyVergara_UdeA.docx**: Monografia 2025_01 -> Modelo de predicción de tiempo de espera de un asegurado en accidente de tránsito (Versión 1.0).
@@ -26,7 +27,7 @@ Predecir el tiempo de espera en la atención de un asegurado durante una inciden
 ## Pasos para ejecutar el Notebook
 
 - Se puede ejecutar el Notebook directamente desde Colab en el siguiente enlace:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1R38a5nc0za78z5o_-a5DgIberJYP1gU4)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xwDWz_EMBLOzOTxIhov6jOxgKw-UDou6)
  
 - En caso de no tener acceso a Colab, se puede usar el Notebook de este repositorio ME02_G7_Modelo.ipynb, se deben seguir los siguientes paso:
 	- **Paso 1**: Se descarga el Notebook ME02_G7_Modelo.ipynb del repositorio y se carga en un ambiente que se pueda ejecutar preferiblemente Colab.
