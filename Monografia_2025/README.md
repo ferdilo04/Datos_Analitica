@@ -1,5 +1,5 @@
-# ENTREGABLE MOMENTO EVALUATIVO #2
-# GRUPO 07
+# ENTREGABLE MONOGRAFIA ESPECIALIZACIÓN EN ANALITICA Y CIENCIA DE DATOS 
+# GRUPO
 - **Diego Fernando Londoño**
 - **Yeny Patricia Vergara** 
 
@@ -13,13 +13,15 @@ Predecir el tiempo de espera en la atención de un asegurado durante una inciden
 - **Documentos/Cronograma.xlsx**: Cronograma de ejecución monografia 2025_02.
 - **ME02_G7_Modelo.ipynb**: Notebook debidamente documentado con el código para la en análisis y tratamiento de los datos.
 - **Data Cruda.xlsx**: Data cruda inicial sin ningún tipo de tratamiento.
-- **DataSet_PREDITIMESACC.xlsx**: Dataset inicial ajustada con información de los datos a trabajar.
-- **DataSet_PREDITIMESACC_V2.xlsx**: Dataset actualizado con información del clima, descripción del caso y dirección.
-- **DataSet_PREDITIMESACC_V3.xlsx**: Dataset actualizado con información ubicación de origen y dirección generada desde el campo descripción.
-- **DataSetFinalTratado.xlsx**: Dataset final con todo el tratamiento de datos aplicado.
+- **DataSet_PREDITIMESACC.xlsx**: Dataset inicial ajustada con información de los datos a trabajar (Versión 1.0).
+- **DataSet_PREDITIMESACC_V2.xlsx**: Dataset actualizado con información del clima, descripción del caso y dirección (Versión 2.0).
+- **DataSet_PREDITIMESACC_V3.xlsx**: Dataset actualizado con información ubicación de origen y dirección generada desde el campo descripción (Versión 3.0).
+- **DataSet_PREDITIMESACC_V4.xlsx**: Dataset actualizado con información ubicación en terminos de latitud y longitud (Versión 4.0).
+- **DataSet_PREDITIMESACC_V5.xlsx**: Dataset Final actualizado con información ubicación en terminos de distancia entre origen y destino (Versión Final 5.0).
 - **Documentos/EstadodelArte/Resumen estado del arte.xlsx**: Información del estado del arte en modelos similares.
-- **Documentos/G07-ME03_AvanceMonografia_DiegoLondono_YennyVergara_UdeA.docx**: Monografia 2025_01 -> Modelo de predicción de tiempo de espera de un asegurado en accidente de tránsito (Versión 1.0).
+- **Documentos/Monografia_ModeloPredictivoTASAT_EACD_2025_01.docx**: Monografia 2025_01 -> Modelo de predicción de tiempo de espera de un asegurado en accidente de tránsito (Versión 1.0).
 - **Documentos/Monografia_ModeloPredictivoTASAT_EACD_2025_02.docx**: Monografia 2025_02 -> Modelo de predicción de tiempo de espera de un asegurado en accidente de tránsito (Versión 2.0).
+- **Documentos/Monografia_ModeloPredictivoTASAT_EACD_2025_02 Version Final.docx**: Monografia 2025_02 -> Modelo de predicción de tiempo de espera de un asegurado en accidente de tránsito (Versión Final del documento).
 
 
 
